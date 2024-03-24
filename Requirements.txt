@@ -1,0 +1,6 @@
+1)Python
+2)Pandas
+3)Numpy
+4)Seaborn
+5)Matplotlib
+6)Data-Processing
