@@ -9,18 +9,21 @@ By examining factors such as vehicle characteristics, driving conditions, and fu
 With an average error rate of less than 5%, our model demonstrated excellent accuracy.
 
 ## Getting started
-1)Cloning : 
+1. Cloning : 
 ```sh
-git clone https://github.com/PrathamChelaramani/Car-Fuel-Consumption-Analysis.git
+git clone https://github.com/prathammkc/Car-Fuel-Consumption-Analysis.git
+```
+2. Navigate to the project directory:
+```sh
 cd Car-Fuel-Consumption-Analysis
 ```
-2)Create a Virtual Environment (Optional but recommended) : 
+3. Create a Virtual Environment (Optional but recommended) : 
 ```sh
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ```
 
-3)Install Requirements : 
+4. Install Requirements : 
 ```sh
 pip install -r requirements.txt
 ```
